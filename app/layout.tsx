@@ -60,6 +60,10 @@ export default function RootLayout({
               <Link href="/login" className="hover:text-red-500">
                 Login
               </Link>
+              
+              <Link href="/profile" className="hover:text-red-500">
+                Perfil
+              </Link>
             </nav>
 
           </div>
